@@ -1,4 +1,4 @@
-# app_02_contator_pessoas
+# app_02_contador_passos
 
 A new Flutter project.
 
